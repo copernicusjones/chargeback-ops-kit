@@ -1,0 +1,17 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/chargeback-ops-kit/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/ai-agent-services"
+  to = "/ai-agent-services/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/chargeback-ops-kit"
+  to = "/chargeback-ops-kit/index.html"
+  status = 200
